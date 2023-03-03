@@ -1,0 +1,5 @@
+access.log
+node_modelus/
+/coverage/
+/db/*.sqlite3
+doc/**/*.txt
